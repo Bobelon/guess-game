@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Guess game Hello world!</h1>
+<h1>Guess Game JSP Maven Hello world!</h1>
 </body>
 </html>
