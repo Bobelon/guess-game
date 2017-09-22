@@ -8,5 +8,8 @@
 </head>
 <body>
 <h1>Guess Game JSP Maven Hello world!</h1>
+Server Version: <%= application.getServerInfo() %><br>
+Servlet Version: <%= application.getMajorVersion() %>.<%= application.getMinorVersion() %><br/>
+JSP Version: <%= JspFactory.getDefaultFactory().getEngineInfo().getSpecificationVersion() %> <br>
 </body>
 </html>
